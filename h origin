@@ -1,0 +1,23 @@
+[33mcommit 9e268fce97c6d832c3bee63a65b3a209b52a5076[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: n_meeks <najja.meeks3@gmail.com>
+Date:   Thu Apr 9 17:41:07 2026 -0700
+
+    Added event listener to display repo info
+
+[33mcommit 32f689fb62124bca0786ee404e9f172ca276b8d9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: n_meeks <najja.meeks3@gmail.com>
+Date:   Thu Apr 9 10:21:33 2026 -0700
+
+    Added functions to fetch and display repo data
+
+[33mcommit 94fd0ce873d602baa5469802441c1c87fc20dc28[m
+Author: n_meeks <najja.meeks3@gmail.com>
+Date:   Tue Feb 17 14:54:48 2026 -0800
+
+    Added function to fetch data
+
+[33mcommit 0af7cc4c42bbfd365b2740d9cd0c47e5e2421f3f[m
+Author: n_meeks <najja.meeks3@gmail.com>
+Date:   Tue Feb 17 11:25:17 2026 -0800
+
+    Initial commit
